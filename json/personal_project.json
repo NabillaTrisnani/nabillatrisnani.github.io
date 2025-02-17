@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "spacetourism.png",
+        "link": "https://nabillatrisnani-space-tourism.netlify.app",
+        "title": "Frontend Mentor Challenge - Space Tourism Multi-Page Website",
+        "description": "A captivating project from Frontend Mentor, where I developed a multi-page website for space tourism, meticulously adhering to the provided design specifications to deliver a visually stunning and functional experience.",
+        "skills": [
+            "SCSS",
+            "Bootstrap",
+            "ReactJS"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "shortly.png",
+        "link": "https://nabillatrisnani-url-shortening.netlify.app",
+        "title": "Frontend Mentor Challenge - URL Shortening API Landing Page",
+        "description": "This project involved creating a responsive and user-friendly landing page integrated with a URL Shortener API, showcasing my ability to handle API interactions and deliver seamless user experiences.",
+        "skills": [
+            "SCSS",
+            "ReactJS",
+            "shrtcode API"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "restcountry.png",
+        "link": "https://nabillatrisnani-rest-country.netlify.app",
+        "title": "Frontend Mentor Challenge - REST Countries API with Color Theme Switcher",
+        "description": "A comprehensive challenge where I built a website utilizing the REST Countries API. The project features a functional search for countries and a dynamic color theme switcher, demonstrating my proficiency in API integration and responsive design.",
+        "skills": [
+            "SCSS",
+            "ReactJS",
+            "Rest Countries API"
+        ]
+    }
+]

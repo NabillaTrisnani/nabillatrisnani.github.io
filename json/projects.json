@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "image": "mcc.png",
+        "link": "https://event.mcc.or.id",
+        "title": "Malang Creative Center",
+        "description": "A sleek and user-friendly website designed for booking rooms at Malang Creative Center, enhancing the convenience of space reservations for creative events.",
+        "skills": [
+            "Bootstrap",
+            "jQuery"
+        ]
+    },
+    {
+        "id": 2,
+        "image": null,
+        "link": "https://play.google.com/store/apps/details?id=com.asia.pelawons",
+        "title": "Pelawons",
+        "description": "A mobile app tailored for individuals with special needs, allowing them to create, showcase, and sell their handmade products, fostering inclusivity and empowerment.",
+        "skills": [
+            "ReactJS"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "dreamjobsja.png",
+        "link": "https://dreamjobsja.com",
+        "title": "Pelawons",
+        "description": "A mobile app tailored for individuals with special needs, allowing them to create, showcase, and sell their handmade products, fostering inclusivity and empowerment.",
+        "skills": [
+            "Bootstrap",
+            "jQuery"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "klikmengajar.png",
+        "link": "https://klikmengajar.com",
+        "title": "KlikMengajar",
+        "description": "An educational application serving as a resource hub for Universitas Muhammadiyah Malang, offering a comprehensive bank of learning materials for students and faculty.",
+        "skills": [
+            "SCSS",
+            "jQuery",
+            "ReactJS"
+        ]
+    },
+    {
+        "id": 5,
+        "image": null,
+        "link": "https://cokro.com/host/mitra",
+        "title": "Cokro Indonesia",
+        "description": "A vibrant website facilitating easy and efficient room rentals, catering to individuals seeking comfortable and affordable accommodation options.",
+        "skills": [
+            "Bootstrap",
+            "jQuery"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "aremafc.png",
+        "link": "https://aremafc.com",
+        "title": "Arema FC",
+        "description": "A heartfelt landing page created for Arema FC, a beloved football club from Malang, East Java, showcasing its rich history and passionate fanbase.",
+        "skills": [
+            "Bootstrap"
+        ]
+    },
+    {
+        "id": 7,
+        "image": "duitkas.png",
+        "link": "https://duitkas.com",
+        "title": "DuitKas",
+        "description": "A dynamic landing page introducing DuitKas, an innovative financial application designed to simplify the creation of financial reports, empowering users to manage their finances effortlessly.",
+        "skills": [
+            "SCSS",
+            "Bootstrap"
+        ]
+    }
+]

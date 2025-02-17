@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nama": "HTML"
+    },
+    {
+        "id": 2,
+        "nama": "CSS"
+    },
+    {
+        "id": 3,
+        "nama": "SCSS"
+    },
+    {
+        "id": 4,
+        "nama": "JS"
+    },
+    {
+        "id": 5,
+        "nama": "ReactJS"
+    },
+    {
+        "id": 6,
+        "nama": "Vue"
+    },
+    {
+        "id": 7,
+        "nama": "jQuery"
+    },
+    {
+        "id": 8,
+        "nama": "Bootstrap"
+    },
+    {
+        "id": 9,
+        "nama": "Tailwind"
+    },
+    {
+        "id": 10,
+        "nama": "Git"
+    },
+    {
+        "id": 11,
+        "nama": "Figma"
+    }
+]

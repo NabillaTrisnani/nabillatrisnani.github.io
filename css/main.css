@@ -1,0 +1,78 @@
+:root {
+	--blue: #4ecdc4;
+	--light: #f7fff7;
+	--dark: #292f36;
+}
+
+* {
+	font-family: "Poppins", serif;
+}
+
+html {
+	scroll-behavior: smooth;
+	overflow: hidden;
+}
+main {
+	display: flex;
+	flex-wrap: nowrap;
+	width: calc(100vw * 5);
+	height: 100vh;
+}
+section {
+	width: 100vw;
+	height: 100vh;
+	background-repeat: no-repeat;
+	padding: 50px calc(6vw + 40px);
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+	width: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+	background: #24272B;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+	background: #888;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
+
+/* START HERO */
+#hero {
+	background-image: url("../image/hero/3.svg"), url("../image/hero/1.svg"),
+		url("../image/hero/4.svg"), url("../image/hero/2.svg");
+	background-position: top left, top right, bottom right, bottom left;
+}
+/* END HERO */
+
+/* START ABOUT */
+#about {
+	background-image: url("../image/about/1.svg"), url("../image/about/2.svg");
+	background-position: top left, bottom right;
+}
+/* END ABOUT */
+
+/* START PROJECT */
+#project {
+	background-image: url("../image/project/1.svg"), url("../image/project/2.svg");
+	background-position: top right, bottom left;
+}
+/* END PROJECT */
+
+/* START ARTICLE */
+#article {
+	background-image: url("../image/article/1.svg"), url("../image/article/2.svg");
+	background-position: top left, bottom right;
+}
+/* END ARTICLE */
+
+/* START CONTACT */
+#contact {
+	background-image: url("../image/contact/1.svg"), url("../image/contact/2.svg");
+	background-position: top right, bottom left;
+}
+/* END CONTACT */
